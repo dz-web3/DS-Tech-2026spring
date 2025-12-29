@@ -1,11 +1,20 @@
-# Data Science for Business (Technical), Spring 2024
-Full syllabus link [here](https://brightspace.nyu.edu/d2l/le/lessons/359018/topics/9871176)
+# Data Science for Business (Technical), Spring 2026
 
 _Instructor:_ Foster Provost (email: fprovost@stern.nyu.edu) \
-_Office hours:_ Tue 3-4:30 & by appt. (KMC 8-86) \
-_Classroom:_ KMC 2-70 \
-_Class time:_ Thursdays 1:30-4:20 p.m. \
-_First-Last Class:_ Feb 1 - May 2 \
-_Teaching fellow:_ Connor Douglas (email: cpd8405@stern.nyu.edu) \
-_Office hours:_ Mon 5:30-7 (Zoom), Tue 2-3:30 (KMC 8-185) & by appt.
+_Teaching Assistant:_ Baotong Zhang \
+_Classroom:_ TBD \
+_Class time:_ TBD
 
+## Course Modules
+
+| Module | Topic | Description |
+|--------|-------|-------------|
+| 0 | Basics | Colab, Jupyter, Python fundamentals |
+| 1 | Bash & Pandas | Command line, data manipulation |
+| 2 | Supervised Learning | Classification & segmentation |
+| 3 | Fitting & Cross-Validation | Overfitting, model validation |
+| 4 | Regularization | Learning curves, regularization techniques |
+| 5 | ROC & Cost | Model assessment, visualization |
+| 6 | Text & Naive Bayes | Text mining, probabilistic models |
+| 7 | Bandits | Exploration/exploitation |
+| 8 | LLM Fine-Tuning | Post-training LLMs with LoRA & Unsloth |
